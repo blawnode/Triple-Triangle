@@ -5,6 +5,9 @@ Between 2021 and 2022, I set to make a simple, whole game.
 And so, I've made _Triple Triangle_.
 
 
+itch.io page and .apk download: https://blawnode.itch.io/threeangle
+
+
 ### The Game
 You control three triangular spikes, and pop enemy circles, moving towards the top of the screen.
 
